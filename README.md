@@ -9,9 +9,9 @@
     <li> Web Dev Simplified (https://www.youtube.com/c/WebDevSimplified) --> JavaScript/Web Dev Tutorials  </li>
     <li> FreeCodeCamp (https://www.youtube.com/c/Freecodecamp) --> Javascript/Coding Tutorials </li>
     <li> Fireship.io (https://www.youtube.com/c/Fireship) --> Javascript Tutorials / Computer Related Topics </li>
-    <l1> Ana Tudor (https://www.youtube.com/c/anatudor) --> CSS Design </l1>
+    <li> Ana Tudor (https://www.youtube.com/c/anatudor) --> CSS Design </li>
     <li> Codedamn (https://www.youtube.com/c/Fireship) --> Cool Computer Related Topics </li>
-    <l1> Computerphile (https://www.youtube.com/user/Computerphile) --> Cool Computer Related Topics  </l1>
+    <li> Computerphile (https://www.youtube.com/user/Computerphile) --> Cool Computer Related Topics  </li>
 </ul>
 </div>
 
@@ -54,7 +54,7 @@
         "json.maxItemsComputed": 15000,
         "window.zoomLevel": 1
     }
-    
+
     5. Save the file and then restart VS Code.    
     
 </div>
