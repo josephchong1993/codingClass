@@ -24,7 +24,7 @@
 <ul>
     <li> Install coding env (WSL/Ubuntu, VS Code, Postgresql (psql), Node, Npm, GitHub cli) </li>
     <li> Create Github Repo for "Introduction to Javascript" and make a commit, then push to master branch </li>
-    <l1> Learn about Variable Declaration and console logs </l1>  
+    <li> Learn about Variable Declaration and console logs </li>  
 </ul>
  </p> 
 </div>
