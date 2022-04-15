@@ -64,7 +64,7 @@
         Lesson One: Will consist of setting up coding enviorments and installing the proper software. Then going over Variable Declaration and how to comment your code. Finally will learn how to make a new git branch (dev), and push to dev branch to your GitHub Repo and merge to into the master branch. 
         
 <ul>
-    <li> Install coding env (WSL/Ubuntu, VS Code, Postgresql (psql), Node, Npm, GitHub cli) </li>
+    <li> Install coding env (WSL/Ubuntu, VS Code, Postgresql (psql), Node, Npm, GitHub cli, Zsh) </li>
     <li> Create Github Repo for "Introduction to Javascript" and make a commit, then push to master branch </li>
     <li> Learn proper code formatting conventions </li>  
     <li> Learn about Variable Declaration and console logs </li>
