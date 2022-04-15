@@ -6,7 +6,7 @@
     <h3> Great YouTube Channels </h3>
 
 <ul>
-    <li> Web Dev Simplified (https://www.youtube.com/c/WebDevSimplified)  </li>
+    <li> Web Dev Simplified (https://www.youtube.com/c/WebDevSimplified) --> JavaScript/Web Dev Tutorials  </li>
     <li> FreeCodeCamp (https://www.youtube.com/c/Freecodecamp) --> Javascript/Coding Tutorials </li>
     <li> Fireship.io (https://www.youtube.com/c/Fireship) --> Javascript Tutorials / Computer Related Topics </li>
     <l1> Ana Tudor (https://www.youtube.com/c/anatudor) --> CSS Design </l1>
