@@ -1,8 +1,8 @@
-<div class="title-div">
+<div class="title-div" style="text-align:center">
     <h1> Javascript Lessons </h1>
 </div>
 
-<div class="youtuber-div">
+<div class="youtuber-div" style="text-align:center">
     <h3> Great YouTube Channels </h3>
 
 <ul>
@@ -15,16 +15,16 @@
 </ul>
 </div>
 
-<div class="intro-to-javascript-div">
+<div class="intro-to-javascript-div" style="text-align:center">
     <h3> Introduction to Javascript Lessons </h3>
 
 <p> 
-        Class One: Will consist of setting up coding enviorments and installing the proper software. 
+        Class One: Will consist of setting up coding enviorments and installing the proper software. Then going over Variable Declaration and how to comment your code. 
         
 <ul>
     <li> Install coding env (WSL/Ubuntu, VS Code, Postgresql (psql), Node, Npm, GitHub cli) </li>
     <li> Create Github Repo for "Introduction to Javascript" and make a commit, then push to master branch </li>
     <li> Learn about Variable Declaration and console logs </li>  
 </ul>
- </p> 
+</p> 
 </div>
