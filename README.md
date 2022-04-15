@@ -61,7 +61,7 @@
     <h3> Introduction to Javascript Lessons </h3>
 
 <p> 
-        Class One: Will consist of setting up coding enviorments and installing the proper software. Then going over Variable Declaration and how to comment your code. Finally will learn how to make a new git branch (dev), and push to dev branch to your GitHub Repo and merge to into the master branch. 
+        Lesson One: Will consist of setting up coding enviorments and installing the proper software. Then going over Variable Declaration and how to comment your code. Finally will learn how to make a new git branch (dev), and push to dev branch to your GitHub Repo and merge to into the master branch. 
         
 <ul>
     <li> Install coding env (WSL/Ubuntu, VS Code, Postgresql (psql), Node, Npm, GitHub cli) </li>
