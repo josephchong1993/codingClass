@@ -25,6 +25,32 @@
     <li> ESLint </li>
     <li> Material Icon Theme </li>
 </ul>
+
+<h3> To Mimic My VS Code </h3>
+    
+    <p>
+        1. Install all the Extensions above.
+        2. With VS Code open hit (crtl + shift + p) and a search menu should appear at the top of the text editor.
+        3. Search for "Preferences: Open Settings (JSON)" and hit enter. It should open a file called "settings.json".
+        4. Copy and Paste the code block below into that setting.json file.
+        {
+            "workbench.colorTheme": "Bearded Theme Black & Gold",
+            "workbench.colorCustomizations": {
+                "editor.background": "#000000",
+                "editorLineNumber.foreground": "#999999",
+                "editorGutter.background" : "#0f0f0f"    
+            },
+            "editor.tokenColorCustomizations": {
+                "comments": "#646464"
+            },
+            "files.autoSave": "afterDelay",
+            "workbench.iconTheme": "material-icon-theme",
+            "javascript.updateImportsOnFileMove.enabled": "always",
+            "json.maxItemsComputed": 15000,
+            "window.zoomLevel": 1
+        }
+        5. Save the file and then restart VS Code.    
+    </p>
 </div>
 
 <div class="intro-to-javascript-div">
