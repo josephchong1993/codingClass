@@ -1,9 +1,9 @@
-<div class="title-div" style="text-align:center">
-    <h1> Javascript Lessons </h1>
+<div class="title-div">
+    <h1 style="text-align:center"> Javascript Lessons </h1>
 </div>
 
-<div class="youtuber-div" style="text-align:center">
-    <h3> Great YouTube Channels </h3>
+<div class="youtuber-div">
+    <h3 style="text-align:center"> Great YouTube Channels </h3>
 
 <ul>
     <li> Web Dev Simplified (https://www.youtube.com/c/WebDevSimplified)  </li>
@@ -15,8 +15,8 @@
 </ul>
 </div>
 
-<div class="intro-to-javascript-div" style="text-align:center">
-    <h3> Introduction to Javascript Lessons </h3>
+<div class="intro-to-javascript-div">
+    <h3 style="text-align:center"> Introduction to Javascript Lessons </h3>
 
 <p> 
         Class One: Will consist of setting up coding enviorments and installing the proper software. Then going over Variable Declaration and how to comment your code. 
