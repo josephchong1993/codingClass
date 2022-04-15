@@ -21,9 +21,13 @@
 <ul>
     <li> Auto Close Tag </li>
     <li> Bearded Theme </li>
+    <li> Beautify </li>
     <li> Bracket Pair Color </li>
     <li> ESLint </li>
+    <li> GitLens </li>
+    <li> Live Server </li>
     <li> Material Icon Theme </li>
+    <li> Path Intellisense </li>
 </ul>
 
 <h3> To Mimic My VS Code </h3>
@@ -57,7 +61,7 @@
     <h3> Introduction to Javascript Lessons </h3>
 
 <p> 
-        Class One: Will consist of setting up coding enviorments and installing the proper software. Then going over Variable Declaration and how to comment your code. Finally will learn how to make a new git branch (dev), and push to dev branch and merge to master branch. 
+        Class One: Will consist of setting up coding enviorments and installing the proper software. Then going over Variable Declaration and how to comment your code. Finally will learn how to make a new git branch (dev), and push to dev branch to your GitHub Repo and merge to into the master branch. 
         
 <ul>
     <li> Install coding env (WSL/Ubuntu, VS Code, Postgresql (psql), Node, Npm, GitHub cli) </li>
