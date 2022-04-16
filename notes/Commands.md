@@ -11,5 +11,6 @@
     <h3> PostgreSQL Cmds </h3>
     <ul>
         <li> sudo -u postgres psql --> Enters the postgreSQL terminal as "postgres" user </li>
+        <li> (inside psql terminal): \q --> Exits the postgreSQL terminal </li>
     </ul>
 </div>
