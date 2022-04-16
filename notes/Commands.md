@@ -8,4 +8,8 @@
         <li> git status --> Will give you the status of your latest commit and will log any errors you are having </li>
         <li> git clone "ssh-address" --> Will download the repo to your current directory so you can make changes to the code base </li>
     </ul>
+    <h3> PostgreSQL Cmds </h3>
+    <ul>
+        <li> sudo -u postgres psql --> Enters the postgreSQL terminal as "postgres" user </li>
+    </ul>
 </div>
